@@ -1,0 +1,9 @@
+# List of servers to monitor
+# Supports comments and empty lines
+
+# Standard hosts
+host1.example.com
+192.168.1.10
+
+# User override example
+admin@host2.example.com
